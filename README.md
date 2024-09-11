@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Analytics | Finance Projects.
 - 📫 How to reach me site Socorro or via alba.simas@bayer.com
 - 😄 Pronouns: Her/She
-- ⚡ Fun fact: I am a Intern with 56 years old, I am enjoy it very much ...
+- ⚡ Fun fact: I am an Intern with 56 years old, I am enjoy it very much ...
 
 <!---
 AlbaSimas/AlbaSimas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
