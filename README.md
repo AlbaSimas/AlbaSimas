@@ -30,6 +30,6 @@
 
 > 😄 Pronouns: She/Her
 
-⚡ Fun Fact: I’m an enthusiastic intern at 56—proving that learning is a lifelong journey!
+⚡ Fun Fact: 
 
 I’m an enthusiastic intern at 56—proving that learning is a lifelong journey!
