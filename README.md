@@ -1,27 +1,35 @@
-👋 Hi there, I'm Alba Simas
-I'm passionate about Finance and Business Intelligence, with a keen interest in leveraging data to drive insights and strategic decisions.
+👋 Hi, I’m Alba Simas! I’m passionate about Finance and Business Intelligence, using data to drive insights and decisions.
 
-👀 My Interests
-Finance: Creating value through financial analysis and forecasting.
-Business Intelligence: Utilizing tools like Power BI to transform raw data into actionable information.
-Big Data: Exploring the potential of large datasets to uncover trends and opportunities.
-🌱 What I'm Currently Learning
-I'm continuously expanding my skills in:
+👀 ##Interests:
 
-Big Data: Mastering tools like BigQuery for handling vast datasets.
-Business Intelligence: Enhancing my expertise in Power BI.
-Programming: Improving my SQL and Python abilities to perform data analysis and automation.
-💼 Looking to Collaborate On
-I'm always excited to collaborate on projects involving:
+1. **Finance**: Creating value through analysis and forecasting.
 
-Data Analytics: Turning complex data into clear, actionable insights.
-Finance Projects: Applying data-driven strategies to financial models and forecasts.
-📫 How to Reach Me
-🌐 Visit my personal site
-📧 Reach me at: alba.simas@bayer.com
-😄 Pronouns
-Her/She
+2. **Business Intelligence**: Using Power BI to turn data into insights.
 
-⚡ Fun Fact
-I'm an enthusiastic intern at 56 years old—proof that learning and growing is a lifelong journey, and I'm loving every moment of it!
+3. **Big Data**: Uncovering trends in large datasets.
 
+🌱 ##Currently Learning:
+
+1. **Big Data**: Mastering BigQuery.
+
+2. **Business Intelligence**: Enhancing Power BI skills.
+
+3. **Programming**: Improving SQL and Python for data analysis.
+
+💼 ##Collaboration Opportunities > I’m eager to work on:
+
+1. **Data Analytics**: Simplifying complex data.
+
+2. **Finance Projects**: Applying data-driven strategies.
+
+📫 ##Contact Me:
+
+> 🌐 [Personal Site]
+
+> 📧 alba.simas@bayer.com
+
+> 😄 Pronouns: She/Her
+
+⚡ Fun Fact: I’m an enthusiastic intern at 56—proving that learning is a lifelong journey!
+
+I’m an enthusiastic intern at 56—proving that learning is a lifelong journey!
